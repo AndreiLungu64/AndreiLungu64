@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 
-My name is Andrei, I am a 23-year-old web developer from Romania. I'm passionate about contributing to software that solves real-world problems and has a visible impact on society.
+My name is Andrei, I am a 22-year-old web developer from Romania. I'm passionate about contributing to software that solves real-world problems and has a visible impact on society.
 
 - 💻 I use daily **.ts**
 - 💡 Quick learner and adaptable to new technologies
