@@ -8,7 +8,7 @@
 
 My name is Andrei, I am a 22-year-old web developer from Romania. I'm passionate about contributing to software that solves real-world problems and has a visible impact on society.
 
-- 💻 I use daily **.ts**
+- 💻 I use daily **.ts**, **.tsx**
 - 💡 Quick learner and adaptable to new technologies
 - 📈 Always monitoring industry trends and best practices
 - 📌 Strong focus on writing maintainable code
