@@ -18,7 +18,7 @@ My name is Andrei, I am a 22-year-old web developer from Romania. I'm passionate
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,angular,rxjs,nodejs,express,postgresql" height="36"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,express,postgresql" height="36"/>
 </div>
 
 ---
