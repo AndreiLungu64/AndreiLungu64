@@ -18,7 +18,7 @@ My name is Andrei, I am a 22-year-old Software Engineer from Romania. I'm passio
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,react,tailwind,postgresql,drizzle,redis,python" height="36"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,express,react,tailwind,postgresql,prisma,redis,docker" height="36"/>
 </div>
 
 ---
