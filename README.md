@@ -24,17 +24,17 @@ My name is Andrei, I am a 22-year-old Software Engineer from Romania. I'm passio
 ---
 
 ### My GitHub Stats:
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=AndreiLungu64&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       alt="GitHub Streak"
     />
   </a>
-</p>
-<!-- <p align="center">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AndreiLungu64&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiLungu64&layout=compact&count_private=true&theme=tokyonight&exclude_repo=expense-manager" />
 </p> -->
+<p align="center">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=AndreiLungu64&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiLungu64&layout=compact&count_private=true&theme=tokyonight&exclude_repo=expense-manager" />
+</p>
 
 ### My Codewars Stats:
 
