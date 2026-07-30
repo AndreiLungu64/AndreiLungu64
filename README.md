@@ -43,3 +43,9 @@ My name is Andrei, I am a 22-year-old Software Engineer from Romania. I'm passio
         <img src="https://www.codewars.com/users/Andrei%20Lungu/badges/large" alt="codewars badge"/> 
     </a> 
 </p>
+
+<p align="center">
+    <a href="https://leetcode.com">
+        <img src="https://jacoblin.cool" alt="AndreiLungu64's LeetCode Stats" />
+    </a>
+</p>
