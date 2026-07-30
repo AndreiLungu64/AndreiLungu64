@@ -46,6 +46,7 @@ My name is Andrei, I am a 22-year-old Software Engineer from Romania. I'm passio
 
 <p align="center">
     <a href="https://leetcode.com">
-        <img src="https://jacoblin.cool" alt="AndreiLungu64's LeetCode Stats" />
+        <img src="https://vercel.app" alt="AndreiLungu64's LeetCode Stats" />
     </a>
 </p>
+
